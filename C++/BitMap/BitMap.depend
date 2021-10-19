@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612932886 source:c:\users\willa\desktop\c++\bitmap\main.cpp
+	<iostream>
+	<fstream>
+

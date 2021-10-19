@@ -1,0 +1,9 @@
+3
+1,POO,4.0
+1,POO,5.0
+2,ADO,5.0
+2,ADO,1.0
+3,Analisis de Algoritmos,3.5
+2,ADO,2.0
+3,Analisis de Algoritmos,3.7
+3,Analisis de Algoritmos,3.0

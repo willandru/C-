@@ -1,0 +1,26 @@
+int a=1;
+    int* b=&a;
+    short int c=7;
+    short int* d=&c;
+    char g='f';
+    char* f=&g;
+    cout << a << endl;
+    cout << b << endl;
+    cout << *b << endl;
+    *b=5;
+    cout<<"Hola"<<endl;
+    cout << a << endl;
+    cout << b << endl;
+    cout << *b << endl;
+
+    cout << "El tamano del apuntador es:"<< sizeof(b)<< endl;
+      cout << "El tamano del apuntador es:"<< sizeof(f)<< endl;
+
+      cout<<g<<'\t'<<f<<endl;
+
+    short int x=10;
+    short int y=20;
+    short int* py=&y;
+    cout<<x<<'\t'<<&x<<endl;
+    cout<<y<<'\t'<<&y<<'/t'<<&py<<endl;
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615781161 source:c:\users\willa\desktop\c++\toke\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+

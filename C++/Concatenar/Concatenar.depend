@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615210583 source:c:\users\willa\desktop\c++\concatenar\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+
